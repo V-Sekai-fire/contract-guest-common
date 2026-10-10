@@ -8,4 +8,4 @@ Guests hash what they read or compute with the checksum the host compares, pass 
 
 ## Licence
 
-There is no licence file. The geometry-query files carry `Apache-2.0 OR MIT` SPDX headers; the other headers state no licence.
+MIT. See [LICENSE](LICENSE).
